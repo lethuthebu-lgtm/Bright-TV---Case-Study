@@ -1,8 +1,8 @@
 # Bright-TV-Analysis
-Business Insights for a New CEO using Historical Transactional Data from Bright Coffee Shop.
+Business Insights for the Csutomer Value Management (CVM) team meet the objectives set out by the CEO
 
 # Main obejectives:
-• Which products generate the most revenue • What time of day the store performs best • Sales trends across products and time intervals • Recommendations for improving sales performance
+• On this repository I provide insights for a CEO with an objective to grow the company's subscription base for the financial year. These insights are to assist the Customer Value Management team in meeting the objective set out by the CEO.
 
 # Tools used
 Databricks
@@ -11,7 +11,10 @@ Miro
 PowerPoint
 
 # Key Insights:
-• Sales by product category and time intervals • High-performing and low-performing products • Total revenue calculations Outline the calculations to be performed: • Total Revenue = unit_price * transaction_qty • Grouping by 30-minute time intervals • Total units sold by product type or detail
+• Provided insights on users and usage trends of Bright TV
+• The factors the influence consumption of the content
+• Recommendations to increase the consumption on the days with low consumption
+• Recommendations to grow the User base
 
 # Steps followed
 Planning on Miro
